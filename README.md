@@ -1,5 +1,4 @@
-#vueDraggable托拽排序
-#draggable-example
+# vueDraggable托拽排序 draggable-example
 
 > Example usage of [vue.draggable](https://github.com/SortableJS/Vue.Draggable)
 
